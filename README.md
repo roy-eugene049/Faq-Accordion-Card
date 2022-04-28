@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Github Repo](https://github.com/yash-278/Frontend-Mentor-Challenges/tree/main/Faq-Accordion-Card)
-- Live Site URL: [Live Demo](https://yash-278.github.io/Frontend-Mentor-Challenges/Faq-Accordion-Card/index.html)
+- Solution URL: [Github Repo](https://github.com/roy-eugene049/Faq-Accordion-Card)
+- Live Site URL: [Live Demo](https://faq-accordion-card-amber.vercel.app/)
 
 ## My process
 
@@ -39,7 +39,6 @@ Users should be able to:
 
 - Semantic HTML5 markup
 - Flexbox
-- Mobile-first workflow
 - Mobile-first workflow
 - [TailwindCss](https://tailwindcss.com/) - For styles
 
